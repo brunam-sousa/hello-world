@@ -1,4 +1,1 @@
-hello-world
-===========
-
-começando com git
+aprendendo GIT
